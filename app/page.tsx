@@ -19,8 +19,8 @@ export default async function Home() {
           <SearchBar />
 
           <div className="home__filter-container">
-            <Filter title="fuel" options={fuels} />
-            <Filter title="year" options={yearsOfProduction} />
+            {/* <Filter title="fuel" />
+            <Filter title="year"  /> */}
           </div>
         </div>
 
