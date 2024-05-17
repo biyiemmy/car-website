@@ -1,4 +1,5 @@
 "use client";
+
 import { useState } from "react";
 import { CarProps } from "@/types";
 import { calculateCarRent, generateCarImageUrl } from "@/utils";

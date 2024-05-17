@@ -1,4 +1,5 @@
 "use client"
+
 import { CarProps } from "@/types";
 import Image from "next/image";
 import { Fragment } from "react";
